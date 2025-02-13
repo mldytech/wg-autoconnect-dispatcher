@@ -1,0 +1,5 @@
+#!/bin/bash
+
+if [ "$2" = "up" ]; then
+    /var/scripts/wg-auto.sh
+fi
