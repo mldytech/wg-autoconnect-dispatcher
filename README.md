@@ -1,6 +1,6 @@
 # wg-autoconnect-dispatcher
 
-**DISCLAIMER: This setup is definitely not fool proof and should therefore not be used for scenarios with serious security concerns.**
+**DISCLAIMER: This setup is definitely not foolproof and should therefore not be used for scenarios with serious security concerns.**
 
 Simple collection of scripts and examples that achieve the following:
 
