@@ -20,5 +20,3 @@ Simple collection of scripts and examples that achieve the following:
 * `/var/scripts/wg-auto.sh`
     * The bash script which contains the actual logic. This is used to decide whether the connection to Wireguard is established or terminated.
 
-### Notes
-Obviously, the contents of wg-auto.sh could be directly implemented in the 99-wg-auto dispatcher file.
