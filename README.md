@@ -16,7 +16,5 @@ Simple collection of scripts and examples that achieve the following:
 * `/etc/wireguard/tunnel.conf`
     * Wireguard configuration file
 * `/etc/NetworkManager/dispatcher.d/99-wg-auto`
-    * Simple bash script which is executed when the network changes. The script below will be called from within this script.
-* `/var/scripts/wg-auto.sh`
-    * The bash script which contains the actual logic. This is used to decide whether the connection to Wireguard is established or terminated.
+    * Simple bash script which is executed when the network changes
 
