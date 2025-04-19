@@ -11,6 +11,7 @@ Simple collection of scripts and examples that achieve the following:
 ### Required packages
 * NetworkManager
 * wg-tools (wg-quick is used to establish and kill wireguard connections)
+* iw
 
 ### Required Files / Configuration (Examples)
 * `/etc/wireguard/tunnel.conf`
